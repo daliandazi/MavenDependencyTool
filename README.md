@@ -1,4 +1,4 @@
-Maven Helper  [![Donate][badge-paypal-img]][badge-paypal]
+MavenDependencyTool
 ==================
 
 
